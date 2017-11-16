@@ -1,6 +1,6 @@
-var Letter = function (character) {
+var Letter = function (guess) {
 
-	this.character = character;
+	this.guess = guess;
 	
 };
 
